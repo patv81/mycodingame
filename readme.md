@@ -44,39 +44,40 @@
 
 [1D SPREADSHEET]: <https://github.com/patv81/mycodingame/blob/master/easy/1d-spreadsheet.js>
 [ASCII ART]: <https://github.com/patv81/mycodingame/blob/master/easy/ascii-art-e21.cpp>
-[BANK ROBBERS]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[BRACKETS, EXTREME EDITION.]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[BULK EMAIL GENERATOR]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[CHUCK NORRIS]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[CREATE LONGEST SEQUENCE 1S]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[DEFIBRILLATORs]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[ENCRYPTION / DECRYPTION OF ENIGMA MACHINE]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[EQUIVALENT RESISTANCE, CIRCUIT BUILDING]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[GHOST LEGS]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[HORSE-RACING DUALS]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[LUMEN]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[MARS LANDER - EPISODE 1]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[Mime type]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[ONBOARDING]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[PIRATE'S TREASURE]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[POWER OF THOR - EPISODE 1]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[PREFIX CODE]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[RECTANGLE PARTITION]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[ROCK PAPER SCISSORS LIZARD SPOCK]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[SUDOKU VALIDATOR]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[TEMPERATURES]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[THE DESCENT]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[THE RIVER I.]: <https://github.com/patv81/mycodingame/blob/master/easy/>
-[THE RIVER II.]: <https://github.com/patv81/mycodingame/blob/master/easy/>
+[BANK ROBBERS]: <https://github.com/patv81/mycodingame/blob/master/easy/bank-robbers-e15.cpp>
+[BRACKETS, EXTREME EDITION.]: <https://github.com/patv81/mycodingame/blob/master/easy/brackets-extreme-edition.js>
+[BULK EMAIL GENERATOR]: <https://github.com/patv81/mycodingame/blob/master/easy/buld-email-generator.js>
+[CHUCK NORRIS]: <https://github.com/patv81/mycodingame/blob/master/easy/chuck-norris-e20.cpp>
+[CREATE LONGEST SEQUENCE 1S]: <https://github.com/patv81/mycodingame/blob/master/easy/create-longest-sequence-of-1s.js>
+[DEFIBRILLATORs]: <https://github.com/patv81/mycodingame/blob/master/easy/defibrillators-e13.js>
+[ENCRYPTION / DECRYPTION OF ENIGMA MACHINE]: <https://github.com/patv81/mycodingame/blob/master/easy/encription-decription-of-enigma-machinee12.js>
+[EQUIVALENT RESISTANCE, CIRCUIT BUILDING]: <https://github.com/patv81/mycodingame/blob/master/easy/equivalent-resistance-curcuit-buidling.js>
+[GHOST LEGS]: <https://github.com/patv81/mycodingame/blob/master/easy/ghost-legs-e18.cpp>
+[HORSE-RACING DUALS]: <https://github.com/patv81/mycodingame/blob/master/easy/horse-racing-duals-e19.cpp>
+[LUMEN]: <https://github.com/patv81/mycodingame/blob/master/easy/lumen.js>
+[MARS LANDER - EPISODE 1]: <https://github.com/patv81/mycodingame/blob/master/easy/mars-lander-ep1-e22.cpp>
+[Mime type]: <https://github.com/patv81/mycodingame/blob/master/easy/mime-type-e14.js>
+[ONBOARDING]: <https://github.com/patv81/mycodingame/blob/master/easy/onboarding-e26.cpp>
+[PIRATE'S TREASURE]: <https://github.com/patv81/mycodingame/blob/master/easy/pirate-treasure.js>
+[POWER OF THOR - EPISODE 1]: <https://github.com/patv81/mycodingame/blob/master/easy/power-of-thor-e24.cpp>
+[PREFIX CODE]: <https://github.com/patv81/mycodingame/blob/master/easy/prefix-code.js>
+[RECTANGLE PARTITION]: <https://github.com/patv81/mycodingame/blob/master/easy/rectangle-partition.js>
+[ROCK PAPER SCISSORS LIZARD SPOCK]: <https://github.com/patv81/mycodingame/blob/master/easy/rock-paper-scissors-lizard-spock.js>
+[SUDOKU VALIDATOR]: <https://github.com/patv81/mycodingame/blob/master/easy/sudoku-validator.js>
+[TEMPERATURES]: <https://github.com/patv81/mycodingame/blob/master/easy/temperatures-23.cpp>
+[THE DESCENT]: <https://github.com/patv81/mycodingame/blob/master/easy/the-descent-e25.cpp>
+[THE RIVER I.]: <https://github.com/patv81/mycodingame/blob/master/easy/the-river-i-e17.cpp>
+[THE RIVER II.]: <https://github.com/patv81/mycodingame/blob/master/easy/the-river-ii-e16.cpp>
 ## Medium
-[ANEO SPONSORED PUZZLE]: <https://github.com/patv81/mycodingame/blob/master/medium>
-[HUFFMAN CODE]: <https://github.com/patv81/mycodingame/blob/master/medium>
-[NETWORK CABLING]: <https://github.com/patv81/mycodingame/blob/master/medium>
-[SCRABBLE]: <https://github.com/patv81/mycodingame/blob/master/medium>
-[SHADOWS OF THE KNIGHT - EPISODE 1]: <https://github.com/patv81/mycodingame/blob/master/medium>
-[STOCK EXCHANGE LOSSES]: <https://github.com/patv81/mycodingame/blob/master/medium>
-[THE GIFT]: <https://github.com/patv81/mycodingame/blob/master/medium>
-[THERE IS NO SPOON - EPISODE 1]: <https://github.com/patv81/mycodingame/blob/master/medium>
+[ANEO SPONSORED PUZZLE]: <https://github.com/patv81/mycodingame/blob/master/medium/aneo-sponsored-puzzle.js>
+[HUFFMAN CODE]: <https://github.com/patv81/mycodingame/blob/master/medium/hufman-code.js>
+[NETWORK CABLING]: <https://github.com/patv81/mycodingame/blob/master/medium/network-cabling.js>
+[SCRABBLE]: <https://github.com/patv81/mycodingame/blob/master/medium/scrabble.js>
+[SHADOWS OF THE KNIGHT - EPISODE 1]: <https://github.com/patv81/mycodingame/blob/master/medium/shadows-of-the-knight-ep1.cpp>
+[STOCK EXCHANGE LOSSES]: <https://github.com/patv81/mycodingame/blob/master/medium/stock-exchange-losses.js>
+[THE GIFT]: <https://github.com/patv81/mycodingame/blob/master/medium/the-gift.js
+>
+[THERE IS NO SPOON - EPISODE 1]: <https://github.com/patv81/mycodingame/blob/master/medium/there-is-no-spoon.py>
 ## Hard
-[ENCOUNTER SURFACE]: <https://github.com/patv81/mycodingame/blob/master/hard>
-[FLOWER BEDS]: <https://github.com/patv81/mycodingame/blob/master/hard>
+[ENCOUNTER SURFACE]: <https://github.com/patv81/mycodingame/blob/master/hard/encounter-surface.js>
+[FLOWER BEDS]: <https://github.com/patv81/mycodingame/blob/master/hard/flower-beds.js>
