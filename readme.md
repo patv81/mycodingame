@@ -81,3 +81,4 @@
 ## Hard
 [ENCOUNTER SURFACE]: <https://github.com/patv81/mycodingame/blob/master/hard/encounter-surface.js>
 [FLOWER BEDS]: <https://github.com/patv81/mycodingame/blob/master/hard/flower-beds.js>
+Hello
